@@ -5,7 +5,7 @@ Twitter: [@Hktalent3135773](https://twitter.com/intent/follow?screen_name=Hktale
 
 ## 一键下载所有CNNVD
 ```
-curl -s -k  -o- http://www.cnnvd.org.cn/web/xxk/xmlDown.tag|grep -Eo '\/attached\/\/[0-9]+\.zip'|xargs -I % wget -c http://www.cnnvd.org.cn/%
+cd CNNVD;curl -s -k  -o- http://www.cnnvd.org.cn/web/xxk/xmlDown.tag|grep -Eo '\/attached\/\/[0-9]+\.zip'|xargs -I % wget -c http://www.cnnvd.org.cn/%
 ```
 
 ## get country ip lists for nmap
