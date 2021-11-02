@@ -3,6 +3,11 @@ Twitter: [@Hktalent3135773](https://twitter.com/intent/follow?screen_name=Hktale
 [![Follow on Twitter](https://img.shields.io/twitter/follow/Hktalent3135773.svg?style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=Hktalent3135773)
 # 51pwn
 
+## 一键下载所有CNNVD
+```
+curl -s -k  -o- http://www.cnnvd.org.cn/web/xxk/xmlDown.tag|grep -Eo '\/attached\/\/[0-9]+\.zip'|xargs -I % wget -c http://www.cnnvd.org.cn/%
+```
+
 ## get country ip lists for nmap
 
 ```
