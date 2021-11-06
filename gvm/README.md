@@ -29,6 +29,12 @@ https://127.0.0.1:9392
 # macOS use 
 open https://`ipconfig getifaddr en0`:9392
 ```
+<img width="1203" alt="image" src="https://user-images.githubusercontent.com/18223385/140613295-78949ca7-c2d6-40fd-aeb9-9b668224335d.png">
+wait...
+```
+$ docker logs -f gvm
+```
 
 # Thanks
-@fnmsd
+- @jweny @jweny0 
+- @fnmsd @lifr233
