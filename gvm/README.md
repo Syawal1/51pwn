@@ -19,6 +19,7 @@ gvmd --create-user=admin --role=Admin
 # change password
 gvmd --user=admin --new-password=admin
 ```
+<img width="768" alt="image" src="https://user-images.githubusercontent.com/18223385/140612985-6c643e31-3edf-4a2f-be7c-27b0c862493a.png">
 
 # Thanks
 @fnmsd
