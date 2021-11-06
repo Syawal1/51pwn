@@ -21,5 +21,14 @@ gvmd --user=admin --new-password=admin
 ```
 <img width="768" alt="image" src="https://user-images.githubusercontent.com/18223385/140612985-6c643e31-3edf-4a2f-be7c-27b0c862493a.png">
 
+# login
+```
+# not use
+https://0.0.0.0:9392
+https://127.0.0.1:9392
+# macOS use 
+open https://`ipconfig getifaddr en0`:9392
+```
+
 # Thanks
 @fnmsd
