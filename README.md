@@ -3,6 +3,9 @@ Twitter: [@Hktalent3135773](https://twitter.com/intent/follow?screen_name=Hktale
 [![Follow on Twitter](https://img.shields.io/twitter/follow/Hktalent3135773.svg?style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=Hktalent3135773)
 # 51pwn
 
+## <a href=vulhub/>一键安装若干靶机</a>
+## <a href=gvm/>run GVM（Greenbone Vulnerability Management = OpenVAS<Open Vulnerability Assessment System>）</a>
+
 ## 一键下载所有CNNVD
 ```
 cd CNNVD;curl -s -k  -o- http://www.cnnvd.org.cn/web/xxk/xmlDown.tag|grep -Eo '\/attached\/\/[0-9]+\.zip'|xargs -I % wget -c http://www.cnnvd.org.cn/%
