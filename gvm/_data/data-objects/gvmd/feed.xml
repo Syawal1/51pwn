@@ -1,0 +1,12 @@
+<feed id="6315d194-4b6a-11e7-a570-28d24461215b">
+<type>GVMD_DATA</type>
+<name>Greenbone Community gvmd Data Feed</name>
+<version>0</version>
+<vendor>Greenbone Networks GmbH</vendor>
+<home>https://community.greenbone.net/t/about-greenbone-community-feed-gcf/1224</home>
+<description>
+This script synchronizes a GVMD_DATA collection with the 'Greenbone Community gvmd Data Feed'.
+The 'Greenbone Community gvmd Data Feed' is provided by 'Greenbone Networks GmbH'.
+Online information about this feed: 'https://community.greenbone.net/t/about-greenbone-community-feed-gcf/1224'.
+</description>
+</feed>

@@ -1,0 +1,12 @@
+<feed id="6315d194-4b6a-11e7-a570-28d24461215b">
+<type>CERT</type>
+<name>Greenbone Community CERT Feed</name>
+<version>202012010130</version>
+<vendor>Greenbone Networks GmbH</vendor>
+<home>https://community.greenbone.net/t/about-greenbone-community-feed-gcf/1224</home>
+<description>
+This script synchronizes a CERT collection with the 'Greenbone Community CERT Feed'.
+The 'Greenbone Community CERT Feed' is provided by 'Greenbone Networks GmbH'.
+Online information about this feed: 'https://community.greenbone.net/t/about-greenbone-community-feed-gcf/1224'.
+</description>
+</feed>

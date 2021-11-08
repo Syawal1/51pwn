@@ -1,0 +1,8 @@
+21
+/data/database
+1636345100
+5432
+/var/run/postgresql
+*
+  5432001         0
+ready   
