@@ -1,0 +1,8 @@
+<!-- Copyright (C) 2020 Greenbone Networks GmbH -->
+<report_format id="a994b278-1f62-11e1-96ac-406186ea4fc5">
+  <name>XML</name>
+  <summary>Raw XML report. Version 20200827.</summary>
+  <description>Complete scan report in GMP XML format. Version 20200827.</description>
+  <extension>xml</extension>
+  <content_type>text/xml</content_type>
+</report_format>

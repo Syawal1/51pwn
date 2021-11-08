@@ -1,0 +1,10 @@
+<!-- Copyright (C) 2020 Greenbone Networks GmbH -->
+<report_format id="77bd6c4a-1f62-11e1-abf0-406186ea4fc5">
+  <name>ITG</name>
+  <summary>German &quot;IT-Grundschutz-Kataloge&quot; report. Version 20200827.</summary>
+  <description>Tabular report on the German &quot;IT-Grundschutz-Kataloge&quot;,
+as published and maintained by the German Federal Agency for IT-Security.
+Version 20200827.</description>
+  <extension>csv</extension>
+  <content_type>text/csv</content_type>
+</report_format>

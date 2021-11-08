@@ -1,0 +1,348 @@
+<!-- Copyright (C) 2020 Greenbone Networks GmbH -->
+<port_list id="730ef368-57e2-11e1-a90f-406186ea4fc5">
+  <name>All TCP and Nmap top 100 UDP</name>
+  <comment>Version 20200827.</comment>
+  <port_ranges>
+    <port_range id="73a35c85-08a7-4ac7-972f-69ad98587ee4">
+      <start>1</start>
+      <end>65535</end>
+      <type>tcp</type>
+      <comment/>
+    </port_range>
+    <port_range id="e9cc2808-7800-11ea-a68c-28d24461215b">
+      <start>7</start>
+      <end>7</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9cc64bc-7800-11ea-83eb-28d24461215b">
+      <start>9</start>
+      <end>9</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9cca51c-7800-11ea-9174-28d24461215b">
+      <start>17</start>
+      <end>17</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9cce96e-7800-11ea-a34f-28d24461215b">
+      <start>19</start>
+      <end>19</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9cd2a64-7800-11ea-9af9-28d24461215b">
+      <start>49</start>
+      <end>49</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9cd6cb8-7800-11ea-be19-28d24461215b">
+      <start>53</start>
+      <end>53</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9cdb024-7800-11ea-940a-28d24461215b">
+      <start>67</start>
+      <end>69</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9cdf1a6-7800-11ea-8f1d-28d24461215b">
+      <start>80</start>
+      <end>80</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9ce3db4-7800-11ea-8785-28d24461215b">
+      <start>88</start>
+      <end>88</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9ce8918-7800-11ea-a252-28d24461215b">
+      <start>111</start>
+      <end>111</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9ced5e4-7800-11ea-a8ab-28d24461215b">
+      <start>120</start>
+      <end>120</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9cf2b2a-7800-11ea-81cf-28d24461215b">
+      <start>123</start>
+      <end>123</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9cf83e0-7800-11ea-a921-28d24461215b">
+      <start>135</start>
+      <end>139</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9cfdd9a-7800-11ea-a752-28d24461215b">
+      <start>158</start>
+      <end>158</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9d0375e-7800-11ea-a9be-28d24461215b">
+      <start>161</start>
+      <end>162</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9d0947e-7800-11ea-9573-28d24461215b">
+      <start>177</start>
+      <end>177</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9d0ec76-7800-11ea-9793-28d24461215b">
+      <start>427</start>
+      <end>427</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9d14220-7800-11ea-9941-28d24461215b">
+      <start>443</start>
+      <end>443</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9d19b1c-7800-11ea-9598-28d24461215b">
+      <start>445</start>
+      <end>445</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9d20304-7800-11ea-8ca6-28d24461215b">
+      <start>497</start>
+      <end>497</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9d2a0d4-7800-11ea-ba96-28d24461215b">
+      <start>500</start>
+      <end>500</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9d2ec06-7800-11ea-96cf-28d24461215b">
+      <start>514</start>
+      <end>515</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9d32c20-7800-11ea-bb1d-28d24461215b">
+      <start>518</start>
+      <end>518</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9d3621c-7800-11ea-bfcb-28d24461215b">
+      <start>520</start>
+      <end>520</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9d38f30-7800-11ea-93a1-28d24461215b">
+      <start>593</start>
+      <end>593</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9d3bdd4-7800-11ea-9bd7-28d24461215b">
+      <start>623</start>
+      <end>623</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9d3eb10-7800-11ea-9352-28d24461215b">
+      <start>626</start>
+      <end>626</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9d4190a-7800-11ea-ac42-28d24461215b">
+      <start>631</start>
+      <end>631</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9d44600-7800-11ea-aa1e-28d24461215b">
+      <start>996</start>
+      <end>999</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9d475d0-7800-11ea-a468-28d24461215b">
+      <start>1022</start>
+      <end>1023</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9d4a348-7800-11ea-abae-28d24461215b">
+      <start>1025</start>
+      <end>1030</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9d4d002-7800-11ea-b2ae-28d24461215b">
+      <start>1433</start>
+      <end>1434</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9d500a4-7800-11ea-b604-28d24461215b">
+      <start>1645</start>
+      <end>1646</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9d52dae-7800-11ea-b0b3-28d24461215b">
+      <start>1701</start>
+      <end>1701</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9d55ba8-7800-11ea-8c9a-28d24461215b">
+      <start>1718</start>
+      <end>1719</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9d58ae2-7800-11ea-9d66-28d24461215b">
+      <start>1812</start>
+      <end>1813</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9d5b94a-7800-11ea-9e75-28d24461215b">
+      <start>1900</start>
+      <end>1900</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9d5e6d6-7800-11ea-ab34-28d24461215b">
+      <start>2000</start>
+      <end>2000</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9d60e36-7800-11ea-b9de-28d24461215b">
+      <start>2048</start>
+      <end>2049</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9d6353c-7800-11ea-a8d8-28d24461215b">
+      <start>2222</start>
+      <end>2223</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9d66174-7800-11ea-9ec4-28d24461215b">
+      <start>3283</start>
+      <end>3283</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9d68d52-7800-11ea-8f28-28d24461215b">
+      <start>3456</start>
+      <end>3456</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9d6b37c-7800-11ea-b276-28d24461215b">
+      <start>3703</start>
+      <end>3703</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9d6d938-7800-11ea-998f-28d24461215b">
+      <start>4444</start>
+      <end>4444</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9d7053e-7800-11ea-aade-28d24461215b">
+      <start>4500</start>
+      <end>4500</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9d72bcc-7800-11ea-8817-28d24461215b">
+      <start>5000</start>
+      <end>5000</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9d7575a-7800-11ea-a157-28d24461215b">
+      <start>5060</start>
+      <end>5060</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9d77fd2-7800-11ea-ad03-28d24461215b">
+      <start>5353</start>
+      <end>5353</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9d7ab92-7800-11ea-9232-28d24461215b">
+      <start>5632</start>
+      <end>5632</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9d7d20c-7800-11ea-8639-28d24461215b">
+      <start>9200</start>
+      <end>9200</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9d7ffa2-7800-11ea-bb94-28d24461215b">
+      <start>10000</start>
+      <end>10000</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9d82c48-7800-11ea-b6b9-28d24461215b">
+      <start>17185</start>
+      <end>17185</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9d8556a-7800-11ea-a6cc-28d24461215b">
+      <start>20031</start>
+      <end>20031</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9d880e4-7800-11ea-b857-28d24461215b">
+      <start>30718</start>
+      <end>30718</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9d8b05a-7800-11ea-a28d-28d24461215b">
+      <start>31337</start>
+      <end>31337</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9d8df26-7800-11ea-b16e-28d24461215b">
+      <start>32768</start>
+      <end>32769</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9d90bc2-7800-11ea-83bf-28d24461215b">
+      <start>32771</start>
+      <end>32771</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9d93958-7800-11ea-94a3-28d24461215b">
+      <start>32815</start>
+      <end>32815</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9d966e4-7800-11ea-8e9b-28d24461215b">
+      <start>33281</start>
+      <end>33281</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9d992c2-7800-11ea-b28f-28d24461215b">
+      <start>49152</start>
+      <end>49154</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9d9bb30-7800-11ea-a0fe-28d24461215b">
+      <start>49156</start>
+      <end>49156</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9d9e740-7800-11ea-a5f0-28d24461215b">
+      <start>49181</start>
+      <end>49182</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9da1b66-7800-11ea-b46e-28d24461215b">
+      <start>49185</start>
+      <end>49186</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9da50ae-7800-11ea-89e2-28d24461215b">
+      <start>49188</start>
+      <end>49188</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9da8916-7800-11ea-9330-28d24461215b">
+      <start>49190</start>
+      <end>49194</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9dabed6-7800-11ea-bc59-28d24461215b">
+      <start>49200</start>
+      <end>49201</end>
+      <type>udp</type>
+    </port_range>
+    <port_range id="e9dafd9c-7800-11ea-8631-28d24461215b">
+      <start>65024</start>
+      <end>65024</end>
+      <type>udp</type>
+    </port_range>
+  </port_ranges>
+</port_list>

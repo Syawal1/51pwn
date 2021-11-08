@@ -92,6 +92,20 @@ cp -r /var/lib/gvm/data-objects/gvmd/20.08/report_formats /var/lib/gvm/data-obje
 
 ```
 
+# more see
+https://github.com/greenbone/gvmd/blob/v20.8.0/INSTALL.md#set-the-feed-import-owner
+```
+# fix: 
+mkdir -p /usr/local/var/lib/gvm/data-objects/gvmd/20.08/report_formats
+mkdir -p /usr/local/var/lib/gvm/data-objects/gvmd/20.08/port_lists
+mkdir -p /usr/local/var/lib/gvm/data-objects/gvmd/20.08/configs
+gvmd --modify-setting 78eceaec-3385-11ea-b237-28d24461215b --value `gvmd --get-users --verbose|awk '{print $2}'`
+
+
+gvmd --get-users --verbose
+
+```
+
 # Thanks
 - @jweny @jweny0 
 - @fnmsd @lifr233

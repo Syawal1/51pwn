@@ -1,0 +1,11 @@
+<!-- Copyright (C) 2020-2021 Greenbone Networks GmbH -->
+<report_format id="a3810a62-1f62-11e1-9219-406186ea4fc5">
+  <name>TXT</name>
+  <summary>Plain text report. Version 20210122.</summary>
+  <description>Plain text report, best viewed with fixed font size. Version 20200827.</description>
+  <extension>txt</extension>
+  <content_type>text/plain</content_type>
+  <file name="TXT.xsl"/>
+  <file name="generate"/>
+  <file name="report_format.xml"/>
+</report_format>

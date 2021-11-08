@@ -1,0 +1,8 @@
+<!-- Copyright (C) 2020 Greenbone Networks GmbH -->
+<report_format id="5057e5cc-b825-11e4-9d0e-28d24461215b">
+  <name>Anonymous XML</name>
+  <extension>xml</extension>
+  <content_type>text/xml</content_type>
+  <summary>Anonymous version of the raw XML report. Version 20200827.</summary>
+  <description>Anonymized scan report in GMP XML format. Version 20200827.</description>
+</report_format>
