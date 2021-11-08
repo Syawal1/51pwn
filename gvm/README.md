@@ -75,6 +75,23 @@ $ exit
 $ docker logs -f gvm
 ```
 
+# How fix:Failed to find port_list '33d0cd82-57c6-11e1-8ed1-406186ea4fc5'
+see: https://blog.csdn.net/WSA1635/article/details/119256792
+```
+docker exec -it  gvm /bin/bash
+mkdir -p /var/lib/gvm
+chown -R gvm:gvm /var/lib/gvm
+su - gvm
+mkdir -p /var/lib/gvm/data-objects/gvmd/20.08/configs
+mkdir -p /var/lib/gvm/data-objects/gvmd/20.08/port_lists
+mkdir -p /var/lib/gvm/data-objects/gvmd/20.08/report_formats
+
+greenbone-feed-sync --type GVMD_DATA
+cp -r /var/lib/gvm/data-objects/gvmd/20.08/port_lists /var/lib/gvm/data-objects/gvmd/21.04/
+cp -r /var/lib/gvm/data-objects/gvmd/20.08/report_formats /var/lib/gvm/data-objects/gvmd/21.04/
+
+```
+
 # Thanks
 - @jweny @jweny0 
 - @fnmsd @lifr233
